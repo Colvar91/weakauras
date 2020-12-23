@@ -13,7 +13,7 @@
 
 1. Fleischformung
 >In der Mitte des Icons wird angezeigt wie lange der Buff selbst noch hält und über dem Icon deutlich zu sehen wie hoch der verhinderte Schaden ist.
-[Fleischformung]()
+[Fleischformung](https://raw.githubusercontent.com/rhialen/weakauras/main/Covenant/Fleischformung.txt)
 
 ## **Schamane**
 ## **Paladin**
