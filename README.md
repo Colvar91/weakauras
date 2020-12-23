@@ -9,6 +9,12 @@
 
 [GCD Cursor](https://raw.githubusercontent.com/rhialen/weakauras/main/Standard%20Auren/Cursor.txt)
 
+## **Covenant Auren**
+
+1. Fleischformung
+>In der Mitte des Icons wird angezeigt wie lange der Buff selbst noch hält und über dem Icon deutlich zu sehen wie hoch der verhinderte Schaden ist.
+[Fleischformung]()
+
 ## **Schamane**
 ## **Paladin**
 ## **Krieger**
