@@ -21,6 +21,15 @@
 [Fleischformung](https://raw.githubusercontent.com/rhialen/weakauras/main/Covenant/Fleischformung.txt)
 
 ## **Schamane**
+
+---
+
 ## **Paladin**
+
+---
+
 ## **Krieger**
+
+---
+
 ## **Schurke**
