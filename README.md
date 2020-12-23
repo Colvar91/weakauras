@@ -2,6 +2,8 @@
 
 >**Hier findet man alle WeakAuren, welche Ich über die Zeit hinweg entwicklt habe beziehungsweise schon immer genutzt habe.**
 
+Standpunkt: 23.12.2020
+
 ---
 
 ## **Standard Auren**
