@@ -9,6 +9,8 @@
 
 [GCD Cursor](https://raw.githubusercontent.com/rhialen/weakauras/main/Standard%20Auren/Cursor.txt)
 
+<br/>
+
 ## **Covenant Auren**
 
 1. Fleischformung
