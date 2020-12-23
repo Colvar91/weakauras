@@ -22,12 +22,16 @@ Standpunkt: 23.12.2020
 
 [Fleischformung](https://raw.githubusercontent.com/rhialen/weakauras/main/Covenant/Fleischformung.txt)
 
+---
+
 ## **Schamane**
 
 1. Sprit Link
 >In der Mitte wird angezeigt, wie lange Spirit Link noch läuft und an der linken Seite wieviele Spieler sich im Kreis befinden.
 
 [Sprit Link](https://raw.githubusercontent.com/rhialen/weakauras/main/Schamane/Spirit%20Link.txt)
+
+---
 
 ## **Paladin**
 
