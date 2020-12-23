@@ -1,6 +1,6 @@
-# **Willkommen!**
+# **Hallöchen!**
 
->**Hier findet man alle WeakAuren, welche Ich über die Zeit hinweg entwickle beziehungsweise schon immer genutzt habe.**
+>**Hier findet man alle WeakAuren, welche Ich über die Zeit hinweg entwicklt habe beziehungsweise schon immer genutzt habe.**
 
 ---
 
