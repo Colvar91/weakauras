@@ -7,11 +7,14 @@ Standpunkt: 23.12.2020
 ---
 
 ## **Standard Auren**
+<details hide>
 
 1. GCD Cursor
 >Als erstes findet man die übliche Aura, welche einen Kreis um den Cursor formt. Dazu gibt es einen GCD Kreis, welcher anzeigt, wann dieser abgelaufen ist.
 
 [GCD Cursor](https://raw.githubusercontent.com/rhialen/weakauras/main/Standard%20Auren/Cursor.txt)
+
+</details>
 
 ---
 
@@ -28,30 +31,35 @@ Standpunkt: 23.12.2020
 ---
 
 ## **Mythisch Plus**
+<details hide>
 
 1. Spiteful/Boshaft
 >Eine kleine Anzeige samt einem Signalton, wenn Ihr in einem Dungeon von einem Schemen verfolgt werdet.
 
 [Spiteful/Boshaft](https://raw.githubusercontent.com/rhialen/weakauras/main/MythicPlus/Spiteful.txt)
 
+</details>
+
 ---
 
 ## **Schamane**
+<details hide>
 
 1. Sprit Link
 >In der Mitte wird angezeigt, wie lange Spirit Link noch läuft und an der linken Seite wieviele Spieler sich im Kreis befinden.
 
 [Sprit Link](https://raw.githubusercontent.com/rhialen/weakauras/main/Schamane/Spirit%20Link.txt)
 
+</details>
+
 ---
 
 ## **Paladin**
+<details hide>
 
 1. Holy Power Bar
 >Eine Leiste in der alle 5 Holy Power angezeigt werden, jeder Holy Power stellt sich in Weiß dar und ab 3 Holy Power, wechselt sich die Farbe auf Lila und es ertönt ein Signalton.
 
 [Holy Power Bar](https://raw.githubusercontent.com/rhialen/weakauras/main/Paladin/Holy%20Power%20Bar.txt)
 
----
-
-## **Krieger**
+</details>
