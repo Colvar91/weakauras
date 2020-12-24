@@ -24,12 +24,12 @@ Standpunkt: 23.12.2020
 
 ---
 
-## **Covenant Auren**
+## **Mythisch Plus**
 
 1. Spiteful/Boshaft
 >Eine kleine Anzeige samt einem Signalton, wenn Ihr in einem Dungeon von einem Schemen verfolgt werdet.
 
-[Spiteful/Boshaft](https://raw.githubusercontent.com/rhialen/weakauras/main/Covenant/Fleischformung.txt)
+[Spiteful/Boshaft](https://raw.githubusercontent.com/rhialen/weakauras/main/MythicPlus/Spiteful.txt)
 
 ---
 
