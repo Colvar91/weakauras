@@ -16,7 +16,7 @@ Standpunkt: 23.12.2020
 ---
 
 ## **Covenant Auren**
-<details open>
+<details hide>
 1. Fleischformung
 >In der Mitte des Icons wird angezeigt wie lange der Buff selbst noch hält und über dem Icon deutlich zu sehen wie hoch der verhinderte Schaden ist.
 
