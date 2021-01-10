@@ -72,6 +72,6 @@ Standpunkt: 23.12.2020
 1. Buff Anzeige + Covenant Fähigkeit (Nightfae)
 >Eine einfache dynamische Gruppe für die Buffs des Jägers, aber nur die wichtigen.
 
-[Buff Group](https://raw.githubusercontent.com/rhialen/weakauras/main/Paladin/Holy%20Power%20Bar.txt)
+[Buff Group](https://raw.githubusercontent.com/rhialen/weakauras/main/J%C3%A4ger/Buffs%20%2B%20Covenant.txt)
 
 </details>
